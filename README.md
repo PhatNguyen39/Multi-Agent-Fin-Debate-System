@@ -1,7 +1,7 @@
 ---
 title: Multi-Agent Finance Debate System
 emoji: 🏦
-colorFrom: violet
+colorFrom: purple
 colorTo: green
 sdk: gradio
 sdk_version: 6.14.0
@@ -9,7 +9,7 @@ python_version: '3.13'
 app_file: app.py
 pinned: true
 license: mit
-short_description: LangGraph multi-agent system debating quarterly financial forecasts
+short_description: LangGraph multi-agent financial debate system
 tags:
   - finance
   - langgraph
