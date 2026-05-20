@@ -20,6 +20,8 @@ tags:
 
 # 🏦 Multi-Agent Finance Debate System
 
+**🚀 [Live Demo](https://huggingface.co/spaces/PhatNguyen39/Multi-Agent-Fin-Debate-System)**
+
 A production-grade demo of a **LangGraph multi-agent system** where four AI agents debate a quarterly financial forecast and produce a board-ready CFO recommendation.
 
 ## Architecture
